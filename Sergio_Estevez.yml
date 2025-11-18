@@ -1,0 +1,29 @@
+---
+title: 'Nibble'
+date: '2025-11-18'
+active: true
+image: 'https://img.freepik.com/free-vector/people-avatars-cartoon-style_23-2148468251.jpg'
+creator: 'Sergio Estévez Soto'
+category: 'información'
+tags:
+    - 'información'
+    - 'sistema informático'
+    - 'ordenador'
+synonyms:
+    - 'medio-byte'
+    - 'semiocteto'
+    - 'cuarteto'
+translation: 'Mordisqueo'
+phrase: 'Este archivo pesa 134 nibbles, es decir, 67 bytes.'
+difficulty: 'medio'
+status: 'estable'
+language: 'eng'
+related:
+    - 'bit'
+    - 'byte'
+    - 'word'
+source: 'https://es.wikipedia.org/wiki/Nibble'
+---
+El nibble es un conjunto de cuatro dígitos binarios (bit) o medio octeto (medio byte). 
+El término procede de la palabra inglesa 'nibble', que significa mordisqueo (mordisco ligero o débil). 
+Esto da a lugar a un juego de palabras entre byte y nibble; byte por su pronunciación similar a la palabra inglesa 'bite' (mordisco) y mayor que un nibble (mordisqueo).
